@@ -20,3 +20,21 @@ Overall, the "History" tab serves as a useful tool for users to review their pas
 * Example test scenario with steps
 <br>
 The file *xlx is attached in the folder TASK 1  (can be opened via MS Excel)
+
+
+# Task 2
+
+*SETUP 
+
+<br>
+Tested on:  <br>
+-Chrome Browser  128.0.6613.85 64-bit   <br>
+-Windows 11 Pro x64  <br>
+-ChromeDriver win64 Stable 128.0.6613.84  r1331488	  <br>
+-Java JDK 22  <br>
+-Selenium 4.23.1
+
+Please run Test1 to run the Test from Task 2
+
+
+# Task 2
