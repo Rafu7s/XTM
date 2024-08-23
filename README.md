@@ -15,7 +15,7 @@
 <br>
 
 * Example test scenario with steps
-<br>
+ 
 >The file *xlx is attached in the folder TASK 1  (can be opened via MS Excel)
 
 
