@@ -29,6 +29,7 @@ public class Test1 {
         WebElement buyXTMCloudLink = driver.findElement(By.linkText("Buy XTM Cloud"));
         buyXTMCloudLink.click();
 
+
         try {
             Thread.sleep(3000); //
         } catch (InterruptedException e) {
