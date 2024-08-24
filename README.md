@@ -3,7 +3,7 @@ https://xtm.cloud
 
 ### Additional info:
 I used Visual Studio Code for Task 1 
-and IntelliJ IDEA for Task 2&3 (with Git)  <br>
+and IntelliJ IDEA for Task 2&3&3 (with Git)  <br>
 I decided not to use branches <br>
 Unused code may be found (refactoring is needed).
 
@@ -26,7 +26,7 @@ Unused code may be found (refactoring is needed).
 >The file *xlx is attached in the folder TASK 1  (can be opened via MS Excel)
 
 
-# Task 2&3
+# Task 2&3&3
 
 >### SETUP 
 
@@ -38,5 +38,5 @@ Tested on:  <br>
 -Selenium 4.23.1
 <br>
 
->Please run Test1 java file to run the Test from Task 2  <br>
+>Please run Test1 java file to run the Test from Task 2&3  <br>
 >Please run Test2 java file to run the Test from Task 3
