@@ -15,7 +15,6 @@ import java.util.Locale;
 import java.text.ParseException;
 
 
-
 public class Test1 {
     public static void main(String[]
   args) throws InterruptedException {
