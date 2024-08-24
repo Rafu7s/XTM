@@ -1,10 +1,15 @@
-### Software used:
-I used Visual Studio Code for Task 1
-and IntelliJ IDEA for Task 2&3 (with Git)
+### Tested Page
+https://xtm.cloud
+
+### Additional info:
+I used Visual Studio Code for Task 1 
+and IntelliJ IDEA for Task 2&3 (with Git)  <br>
+I decided not to use branches <br>
+Unused code may be found (refactoring is needed).
 
 # Task 1
 
-* Description
+* Description of the History tab into a new project
 <br>
 
 >The "History" tab is a feature that allows users to track and manage their previous activity or interactions within the application.
@@ -21,7 +26,7 @@ and IntelliJ IDEA for Task 2&3 (with Git)
 >The file *xlx is attached in the folder TASK 1  (can be opened via MS Excel)
 
 
-# Task 2
+# Task 2&3
 
 >### SETUP 
 
@@ -33,8 +38,5 @@ Tested on:  <br>
 -Selenium 4.23.1
 <br>
 
-
->Please run Test1 java file to run the Test from Task 2
-
-
-# Task 3
+>Please run Test1 java file to run the Test from Task 2  <br>
+>Please run Test2 java file to run the Test from Task 3
