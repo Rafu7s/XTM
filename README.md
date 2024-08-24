@@ -3,7 +3,7 @@ https://xtm.cloud
 
 ### Additional info:
 I used Visual Studio Code for Task 1 
-and IntelliJ IDEA for Task 2&3&3 (with Git)  <br>
+and IntelliJ IDEA for Task 2&3 (with Git)  <br>
 I decided not to use branches <br>
 Unused code may be found (refactoring is needed).
 
