@@ -1,6 +1,8 @@
-# Task 1
+### Software used:
+I used Visual Studio Code for Task 1
+and IntelliJ IDEA for Task 2&3 (with Git)
 
-<br>
+# Task 1
 
 * Description
 <br>
@@ -24,11 +26,13 @@
 >### SETUP 
 
 Tested on:  <br>
--Chrome Browser  128.0.6613.85 64-bit   <br>
 -Windows 11 Pro x64  <br>
+-Chrome Browser  128.0.6613.85 64-bit   <br>
 -ChromeDriver win64 Stable 128.0.6613.84  r1331488	  <br>
 -Java JDK 22  <br>
 -Selenium 4.23.1
+<br>
+
 
 >Please run Test1 java file to run the Test from Task 2
 
