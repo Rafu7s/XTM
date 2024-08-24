@@ -38,5 +38,5 @@ Tested on:  <br>
 -Selenium 4.23.1
 <br>
 
->Please run Test1 java file to run the Test from Task 2&3  <br>
+>Please run Test1 java file to run the Test from Task 2  <br>
 >Please run Test2 java file to run the Test from Task 3
