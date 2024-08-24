@@ -26,7 +26,7 @@ Unused code may be found (refactoring is needed).
 >The file *xlx is attached in the folder TASK 1  (can be opened via MS Excel)
 
 
-# Task 2&3&3
+# Task 2&3
 
 >### SETUP 
 
