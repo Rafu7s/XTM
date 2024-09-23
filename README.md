@@ -23,7 +23,7 @@ Unused code may be found (refactoring is needed).
 
 * Example test scenario with steps
  
->The file *xlx is attached in the folder TASK 1  (can be opened via MS Excel)
+>The file *xlx is attached in the folder TASK 1  (can be opened via MS Excel) *In case of an opening error, use the download button in the file folder.
 
 
 # Task 2&3
