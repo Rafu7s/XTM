@@ -7,6 +7,10 @@ and IntelliJ IDEA for Task 2&3 (with Git)  <br>
 I decided not to use branches <br>
 Unused code may be found (refactoring is needed).
 
+###### TODO:
+-add assertions <br>
+-add adnotation/tags e.g. @Test
+
 # Task 1
 
 * Description of the History tab into a new project
@@ -41,7 +45,3 @@ Tested on:  <br>
 
 >Please run Test1 java file to run the Test from Task 2  <br>
 >Please run Test2 java file to run the Test from Task 3
-
-TODO: <br>
--add assertions <br>
--add adnotation/tags e.g. @Test
