@@ -41,3 +41,7 @@ Tested on:  <br>
 
 >Please run Test1 java file to run the Test from Task 2  <br>
 >Please run Test2 java file to run the Test from Task 3
+
+TODO: <br>
+-add assertions <br>
+-add adnotation/tags e.g. @Test
