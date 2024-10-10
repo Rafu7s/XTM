@@ -14,6 +14,11 @@ Unused code may be found (refactoring is needed).
 # Task 1
 
 * Description of the History tab into a new project
+
+  The history Tab location: Log into account (I used trial account) > Projects Tab > Add project > from context menu select '“Open XTM Workbench'. <br>
+  
+  ![podgląd](images/2024-10-10_20h13_45.png)
+  
 <br>
 
 >The "History" tab is a feature that allows users to track and manage their previous activity or interactions within the application.
@@ -32,7 +37,24 @@ Unused code may be found (refactoring is needed).
 
 
 # Task 2&3
+How does the test work? <br>
 
+Task 2: 
+1. Opened the testing page
+2. Opened XTM Cloud feature
+3. Calculate the price for Group - 2 to 4 users, 3 users, 12 months, 30,000 words
+4. Checking if the total cost is equal to $831.60.
+
+Task 3:
+1. Opened the testing page
+2. Opened documentation from resources
+3. Choosing a Cloud help page
+4. Opened Documentation version 13.7
+5. Clicked for additional info
+6. Choosing from the menu on the left Stop words section
+7. Download text file sk - Slovak
+8. Checking if the file is successfully downloaded
+  
 >### SETUP 
 
 Tested on:  <br>
